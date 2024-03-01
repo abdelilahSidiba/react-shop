@@ -1,0 +1,18 @@
+/* display_details_product.css */
+
+  
+  .product-image {
+    width: 100%;
+    height: 14rem; 
+    transition: transform 0.3s ease;
+  }
+  
+  .product:hover .product-image {
+    transform: scale(1.1);
+  }
+  
+
+  
+
+  
+  
