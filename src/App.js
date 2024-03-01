@@ -3,7 +3,7 @@ import { Product_Data } from "./compsant/Data-product";
 import Header from "./compsant/Header";
 import Productlist from "./compsant/Product-list";
 import Swal from "sweetalert2";
-import { BrowserRouter, Link, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Card from "./compsant/Card";
 import Detaiproduct from "./compsant/Detai_product";
 
